@@ -1,4 +1,4 @@
-#####Run the price engine application by below commands.
+Run the price engine application by below commands.
 
 1. mvn clean install
 2. mvn clean package
